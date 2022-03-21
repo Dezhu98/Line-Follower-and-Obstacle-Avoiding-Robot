@@ -1,6 +1,6 @@
 # Line Follower and Obstacle Avoiding Robot
 
-_**Proiect realizat impreuna cu Panaite Andra - Nicoleta**_
+_**Proiect realizat de Pandurita Gabriel si Panaite Andra - Nicoleta**_
 
 _**Introducere**:_
 
