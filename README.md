@@ -12,7 +12,7 @@ _**Exemple proiecte similare**_:
 
 1)     https://create.arduino.cc/projecthub/SmartTronics/obstacle-avoiding-robot-using-arduino-and-ultrasonic-sensor-c179bb
 
-Robot ce ocoleste obstacolele si foloseste un sezsor cu ultrasunete si 2 motoare.
+Robot ce ocoleste obstacolele si foloseste un senzor cu ultrasunete si 2 motoare.
 
 2)     https://www.youtube.com/watch?v=1n_KjpMfVT0
 
